@@ -1,9 +1,3 @@
-# UTS PENGOLAHAN CITRA
-
-### Nama  : Elisabeth Erni Marbun Banjarnahor
-### Kelas  : I241E
-### Nim    : 312410525
-
 # Penjelasan Function
 
 ## 1. Fungsi Visualisasi (Plot Gambar)
