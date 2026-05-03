@@ -1,0 +1,8 @@
+# Ignore hasil generate gambar
+*.png
+*.jpg
+*.jpeg
+
+# Ignore Python cache
+__pycache__/
+*.pyc
